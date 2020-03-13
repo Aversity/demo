@@ -40,7 +40,7 @@
       "sid": 5,
       "sonderform": "Keine"
     }
-  ]
+  ],
   
   "Inventar": [
   {
@@ -70,7 +70,7 @@
     "float": "FN",
     "epreis": "18$",
     "mpreis": "20$",
-  },
+  }
   ]
 }
 
