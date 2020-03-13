@@ -5,7 +5,7 @@
       "sname": "AWP",
       "sskin": "Red",
       "float": "FN, MW, FT",
-      "sid": 1,
+      "sid": 0,
       "sonderform": "Keine"
     },
     {
@@ -13,7 +13,7 @@
       "sname": "AWP",
       "sskin": "Blue",
       "float": "FN, MW, FT, BS",
-      "sid": 2,
+      "sid": 1,
       "sonderform": "Keine"
     },
     {
@@ -21,7 +21,7 @@
       "sname": "AWP",
       "sskin": "Green",
       "float": "FN, FT, BS",
-      "sid": 3,
+      "sid": 2,
       "sonderform": "Keine"
     },
     {
@@ -29,7 +29,7 @@
       "sname": "AWP",
       "sskin": "Black",
       "float": "FN, MW, FT, BS",
-      "sid": 4,
+      "sid": 3,
       "sonderform": "Keine"
     },
     {
@@ -37,36 +37,36 @@
       "sname": "AK-47",
       "sskin": "Red",
       "float": "FN, MW, BS",
-      "sid": 5,
+      "sid": 4,
       "sonderform": "Keine"
     }
   ],
   
   "Inventar": [
   {
-    "sid": 4,
-    "iid": 1,
+    "sid": 3,
+    "iid": 0,
     "float": "FN",
     "epreis": "15$",
     "mpreis": "20$"
   },
   {
-    "sid": 3,
-    "iid": 2,
+    "sid": 2,
+    "iid": 1,
     "float": "BS",
     "epreis": "30$",
     "mpreis": "20$"
   },
   {
-    "sid": 1,
-    "iid": 3,
+    "sid": 0,
+    "iid": 2,
     "float": "FT",
     "epreis": "15$",
     "mpreis": "20$"
   },
   {
-    "sid": 4,
-    "iid": 1,
+    "sid": 3,
+    "iid": 3,
     "float": "FN",
     "epreis": "18$",
     "mpreis": "20$"
