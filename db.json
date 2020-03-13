@@ -48,28 +48,28 @@
     "iid": 1,
     "float": "FN",
     "epreis": "15$",
-    "mpreis": "20$",
+    "mpreis": "20$"
   },
   {
     "sid": 3,
     "iid": 2,
     "float": "BS",
     "epreis": "30$",
-    "mpreis": "20$",
+    "mpreis": "20$"
   },
   {
     "sid": 1,
     "iid": 3,
     "float": "FT",
     "epreis": "15$",
-    "mpreis": "20$",
+    "mpreis": "20$"
   },
   {
     "sid": 4,
     "iid": 1,
     "float": "FN",
     "epreis": "18$",
-    "mpreis": "20$",
+    "mpreis": "20$"
   }
   ]
 }
