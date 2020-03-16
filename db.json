@@ -70,7 +70,14 @@
     "float": "FN",
     "epreis": "18$",
     "mpreis": "20$"
-  }
+  },
+  {
+    "sid": 0,
+    "iid": 4,
+    "float": "MW",
+    "epreis": "15$",
+    "mpreis": "30$"
+  },
   ]
 }
 
